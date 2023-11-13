@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @someoneelseYT
 - 👀 I’m interested in operating systems and programing.. duh
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c and javascript
 - 💞️ I’m looking to collaborate on TermaCode
 - 📫 How to reach me: buisness llcwispr@gmail.com.
 
